@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.h4ClassName {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  color: cadetblue;
+  font-size: 16px;
+}
+
+.h3Classname {
+  padding: 20px 20px;
+  background-color: #acc;
+  color: #bb6a6a;
+  border-radius: 20px;
+}
+
+.divclassName ul li {
+  list-style: none;
+}
+
+.cards {
+  float: left;
+  padding: 5px;
+}
+
+.card_info {
+  text-align: center;
+}
+
+.cards {
+  float: left;
+  padding: 5px;
+}
+
+.card_info {
+  text-align: center;
+  background: aliceblue;
+  padding: 15px;
+}
+
+.divclassName {
+  text-align: center;
+  color: red;
+}

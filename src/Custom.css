@@ -1,0 +1,82 @@
+.divClass ul li {
+    list-style: none;
+    margin: 0px 0px 6px 6px;
+    padding: 5px;
+}
+
+div#paperId {
+    height: 800px;
+    /* margin: 10px 10px 10px 12px; */
+    padding: 30px 0px 0px 18px;
+}
+
+span.imgClass {
+    position: relative;
+    bottom: 60px;
+    left: 90px;
+}
+
+h2.covidClass {
+    position: fixed;
+    padding: 10px 29%;
+    /* background-color: aqua; */
+    /* border: 2px solid red; */
+    margin-top: -2%;
+    color: blue;
+}
+span.spanClass {
+    color: darkcyan;
+    font-size: 16px;
+    padding: 0px 5px;
+}
+span.showName {
+    color: indigo;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+span.location {
+    background-color: darksalmon;
+    border: 1px solid;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 26px;
+    background-color: black;
+    color: aliceblue;
+}
+.container h4 {
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+.quantity {
+    text-align: center;
+    padding: 5%;
+}
+a.quantity_minus {
+    background: cornflowerblue;
+    margin: 8px;
+    padding: 15px 25px;
+
+}
+a.quantity_plus {
+    background: cornflowerblue;
+    margin: 8px;
+    padding: 15px 25px;
+}
+input.quantity_input {
+    width: 5%;
+    padding: 11px;
+}
+
+/* multiple api css */
+.left-div {
+    padding: 0px 4px 0px 0px;
+    box-shadow: 5px 5px 5px darkgrey;
+}
+.right-div {
+    padding: 0px 0px 0px 2px;
+    box-shadow: 5px 5px 5px darkgrey;
+}
